@@ -18,7 +18,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="zh">
       <head>
-           <link rel="icon" href="./icon.png">
+           <link rel="icon" href="./favicon.ico">
       </head>
       <body>
         <Theme appearance="light" accentColor="blue" grayColor="slate" radius="medium" scaling="100%">
