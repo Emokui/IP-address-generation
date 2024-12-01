@@ -3,8 +3,8 @@ import '@radix-ui/themes/styles.css';
 import "./globals.css";
 
 export const metadata = {
-  title: "基于IP的真实地址生成器",
-  description: "使用Next.js和Radix UI创建的IP地址生成器",
+  title: "地址生成器",
+  description: "",
   icons: {
     icon: [
       { url: '/favicon.ico', sizes: 'any' },
