@@ -108,7 +108,7 @@ export default function Home() {
               <Flex direction="column" gap="2" style={{ height: '100%' }}>
                 <Box>
                   <Heading size="8" align="center" mb="1">
-                    真实地址生成器 🌍
+                    真实地址生成器
                   </Heading>
                   <IPDisplay />
                 </Box>
